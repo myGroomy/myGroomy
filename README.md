@@ -1,4 +1,3 @@
-# myGroomy
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header&text=myGroomy&fontSize=40&fontColor=58a6ff&fontAlignY=70&animation=fadeIn" width="100%"/>
