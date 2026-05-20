@@ -21,9 +21,8 @@
 ```python
 class myGroomy:
     name       = "myGroomy"
-    location   = "Indonesia 🇮🇩"
-    roles      = ["🎓 Student", "💻 Developer", "📊 Data Enthusiast"]
-    interests  = ["🤖 Agentic AI", "⚡ Automation", "📈 Data Pipelines", "🧠 LLM Engineering"]
+    roles      = ["Student", "Developer", "Data Enthusiast"]
+    interests  = ["Agentic AI", "Automation", "Data Pipelines", "LLM Engineering"]
     stack      = ["Python", "Google Apps Script", "TypeScript", "JavaScript"]
     currently  = "Building intelligent agents & GAS-powered automation tools"
     learning   = ["LangChain", "CrewAI", "LlamaIndex", "dbt", "FastAPI"]
