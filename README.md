@@ -75,9 +75,9 @@ class myGroomy:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| 🏷️ Project | 📄 Description | 🔧 Stack | ⭐ |
+| Project | Description | Stack | ⭐ |
 |---|---|---|---|
 | [**Cek-Kas-V1**](https://github.com/myGroomy/Cek-Kas-V1) | Cash & kas management tool with clean UI | TypeScript | [![Stars](https://img.shields.io/github/stars/myGroomy/Cek-Kas-V1?style=flat-square&color=58a6ff)](https://github.com/myGroomy/Cek-Kas-V1) |
 | [**LifeText**](https://github.com/myGroomy/LifeText) | AI-powered transcription & intelligence platform | Python | [![Stars](https://img.shields.io/github/stars/myGroomy/LifeText?style=flat-square&color=58a6ff)](https://github.com/myGroomy/LifeText) |
@@ -87,7 +87,7 @@ class myGroomy:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -110,40 +110,40 @@ class myGroomy:
 
 ---
 
-## 🤖 What I'm Building & Learning
+## What I'm Building & Learning
 
 ```
-🧠 Agentic AI     ████████████░░░░  Multi-agent orchestration, tool use, ReAct
-⚡ GAS Automation  ████████████████  Spreadsheet-driven apps, API integrations
-📊 Data Pipelines  ████████░░░░░░░░  ETL, transformation, analysis workflows
-🌐 Web Dev         ██████░░░░░░░░░░  FastAPI backends, lightweight frontends
-🔧 LLM Engineering ████████████░░░░  Prompt engineering, RAG, fine-tuning basics
+Agentic AI     ████████████░░░░  Multi-agent orchestration, tool use, ReAct
+GAS Automation  ████████████████  Spreadsheet-driven apps, API integrations
+Data Pipelines  ████████░░░░░░░░  ETL, transformation, analysis workflows
+Web Dev         ██████░░░░░░░░░░  FastAPI backends, lightweight frontends
+LLM Engineering ████████████░░░░  Prompt engineering, RAG, fine-tuning basics
 ```
 
 ---
 
 ## 📌 Current Focus
 
-- 🤖 Exploring **multi-agent systems** with LangChain & CrewAI
-- ⚡ Building production-grade **Google Apps Script** automation for real business use cases
-- 📊 Developing **data pipelines** and dashboards using Python + Google Sheets
-- 🧠 Studying **RAG (Retrieval-Augmented Generation)** and vector databases
-- 🚀 Shipping small tools that solve real problems
+- Exploring **multi-agent systems** with LangChain & CrewAI
+- Building production-grade **Google Apps Script** automation for real business use cases
+- Developing **data pipelines** and dashboards using Python + Google Sheets
+- Studying **RAG (Retrieval-Augmented Generation)** and vector databases
+- Shipping small tools that solve real problems
 
 ---
 
-## 🧩 Fun Facts
+## Fun Facts
 
 > "The best automation is the one you never have to think about again."
 
-- 🎓 Still a student, but already automating what most adults do manually
-- 🤖 Believes AI agents will replace repetitive workflows within 3 years
-- 📚 Reads more GitHub READMEs than actual books
-- ☕ Productivity peaks after the second coffee
+- Still a student, but already automating what most adults do manually
+- Believes AI agents will replace repetitive workflows within 3 years
+- Reads more GitHub READMEs than actual books
+- Productivity peaks after the second coffee
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -158,6 +158,6 @@ class myGroomy:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
 
-<sub>⚡ Crafted with code & caffeine by <strong>myGroomy</strong> · Indonesia 🇮🇩</sub>
+<sub> Crafted with code & caffeine by <strong>myGroomy</strong> · Indonesia 🇮🇩</sub>
 
 </div>
