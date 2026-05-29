@@ -1,11 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=myGroomy&fontSize=60&fontColor=58a6ff&fontAlignY=65&desc=Student%20%7C%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descAlignY=82&descColor=8b949e&animation=fadeIn" width="100%"/>
-
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;Automating+everything+with+GAS+%E2%9A%A1;Turning+data+into+decisions+%F0%9F%93%8A;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;Automating+everything+with+GAS;Turning+data+into+decisions;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=myGroomy&style=flat-square&color=58a6ff&label=Profile+Views)
@@ -31,7 +27,7 @@ class myGroomy:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Scripting**
 
@@ -89,12 +85,7 @@ class myGroomy:
 
 ## GitHub Stats
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=myGroomy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myGroomy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
-
-</div>
 
 <div align="center">
 
